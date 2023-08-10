@@ -8,7 +8,7 @@ public class conditional1 {
         System.out.println("enter age");
         int age = sc.nextInt();
 
-        if (age<12){
+        if (age<=12){
             System.out.println("child");
 
         } else if (age>12 && age<18) {

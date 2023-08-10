@@ -9,10 +9,21 @@ public class conditional {
 
             System.out.println("Enter number");
             int a = sc.nextInt();
-            if (a%2==0){
-                System.out.println("input is odd");
-            } else {
-                System.out.println("input is even");
-        }
+//            if (a%2==0){
+//                System.out.println("input is odd");
+//            } else {
+//                System.out.println("input is even");
+        //  }
+
+        //now solving by ternary operator it is same as dart
+
+        String ans;
+
+     ans = (a%2==0)?"odd":"even";
+
+        System.out.println(ans);
+
+
+
     }
 }
