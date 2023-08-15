@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
+    <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="loops">
+      <change afterPath="$PROJECT_DIR$/src/BitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operator3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operator3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +62,9 @@
       <workItem from="1691646121210" duration="1624000" />
       <workItem from="1691647775027" duration="9777000" />
       <workItem from="1691725317009" duration="6713000" />
+      <workItem from="1691813820003" duration="934000" />
+      <workItem from="1691896899795" duration="1559000" />
+      <workItem from="1692120128795" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="my second commit">
       <option name="closed" value="true" />
@@ -85,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691665619291</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="loops">
+      <option name="closed" value="true" />
+      <created>1691814122455</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691814122455</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +107,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my second commit" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

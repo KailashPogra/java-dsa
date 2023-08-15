@@ -7,8 +7,13 @@ public class operator3 {
    int a = 55;
    int b = 70;
 
-    System.out.println( a<55&&a<b) ;
-    System.out.println( a<50||a<b) ;
+
+   // in the && operator if any operand is false then it returns false it doesn't matter how many
+     //operand you compare
+    System.out.println( a<55&&a<b&&b>70) ;
+// in OR || operator if any operator is true then it returns true it doesn't matter how many
+//operand you compare
+    System.out.println( a<50||a<b||b>70) ;
 
    
 }
