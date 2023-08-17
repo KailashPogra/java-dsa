@@ -11,3 +11,4 @@ public class BitwiseOperator {
         System.out.println(q>>2); //2
     }
 }
+

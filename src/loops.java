@@ -2,15 +2,16 @@ import java.util.Scanner;
 public class loops {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
-      // int n = sc.nextInt();
+       int n = sc.nextInt();
         // print the sum of n natural numbers , where n is the input
-//        int sum = 0;
-//        int i = 0;
-//            while(i<n){
-//                i++;
-//                sum=sum+i;
-//            }
-//        System.out.println(sum);
+        int sum = 0;
+        int i = 0;
+            while(i<n){
+                i++;
+                sum=sum+i;
+
+            }
+        System.out.println(sum);
 
 // solve same question using for loop
 //        int sum = 0;
@@ -27,11 +28,12 @@ public class loops {
 //        }
 
         // do while loop
-        //in this loop first itration always execute then it check condition
-       int num = 1;
-        do {
-            System.out.println(num);
-            num++;
-        }while (num<=10);
+        //in this loop first iteration always execute then it check condition
+        //in this example we can see the condition is false, but it prints num 1 time
+//       int num = 1;
+//        do {
+//            System.out.println(num);
+//            num++;
+//        }while (num<=0);
     }
 }

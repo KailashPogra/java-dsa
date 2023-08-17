@@ -6,9 +6,13 @@ public class absoluteValue {
         Scanner sc = new Scanner(System.in);
 
         int number = sc.nextInt();
-      if(number<0){
-         number = number*-1;
-      }
-        System.out.println("the absolute value is = "+number);
+
+        if (number <0){
+            number = number*-1;
+        }
+        // absolute means it cant be minus
+        System.out.println("absolute value is = "+number);
+
+
     }
 }
