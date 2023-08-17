@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/loops1.java" afterDir="false" />
+    <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="updated code">
+      <change afterPath="$PROJECT_DIR$/src/prectice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BitwiseOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/absoluteValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/absoluteValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loops1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +67,8 @@
       <workItem from="1691896899795" duration="1559000" />
       <workItem from="1692120128795" duration="3220000" />
       <workItem from="1692127038795" duration="1277000" />
-      <workItem from="1692251356505" duration="3465000" />
+      <workItem from="1692251356505" duration="11137000" />
+      <workItem from="1692292250188" duration="4826000" />
     </task>
     <task id="LOCAL-00001" summary="my second commit">
       <option name="closed" value="true" />
@@ -109,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692122146478</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1692255597889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692255597889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +128,8 @@
     <MESSAGE value="my second commit" />
     <MESSAGE value="loops" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="updated code" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

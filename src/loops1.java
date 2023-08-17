@@ -13,18 +13,14 @@ public class loops1 {
 //            i++;
 //        }
 //        System.out.println("sum of n natural number is "+ sum);
-
         // break and continue
-
         // print the first multiple of 5 which is also a multiple of 7
-
 //        for (int i = 1 ;;i++){
 //            if (i%5==0 && i%7==0){
 //                System.out.println("found the first multiple is  "+ i);
 //               break;
 //            }
-
-        // solving by while loop
+// solving by while loop
 //        int i = 1 ;
 //        while (true){
 //            if (i%5==0 && i%7==0){
@@ -33,15 +29,14 @@ public class loops1 {
 //            }
 //            i++;
 //        }
-
-
         // continue keyword
         // in this we can skip a required iteration and move to next iteration
         // print all the value 1 to 50 except for the multiple of 3
-        for (int i =1 ; i<=50 ; i++){
-
+        // we can specify our loop using label for better usage of break and continue
+        // it is most useful when we are working on inner loop
+       myloop: for (int i =1 ; i<=50 ; i++){
             if (i%3==0){
-                continue;
+                continue myloop;
             }
             System.out.println(i);
         }
