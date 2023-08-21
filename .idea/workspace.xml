@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="updated code">
-      <change afterPath="$PROJECT_DIR$/src/prectice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecimalToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopsAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loops1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,10 @@
       <workItem from="1692120128795" duration="3220000" />
       <workItem from="1692127038795" duration="1277000" />
       <workItem from="1692251356505" duration="11137000" />
-      <workItem from="1692292250188" duration="4826000" />
+      <workItem from="1692292250188" duration="5040000" />
+      <workItem from="1692345151493" duration="5194000" />
+      <workItem from="1692357778670" duration="4330000" />
+      <workItem from="1692410221721" duration="9209000" />
     </task>
     <task id="LOCAL-00001" summary="my second commit">
       <option name="closed" value="true" />
@@ -118,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692255597889</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1692297805510</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692297805510</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +141,17 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updated code" />
     <option name="LAST_COMMIT_MESSAGE" value="updated code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loopsAssignment.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
