@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9e8bbb2-aaf4-44d4-bd1d-628f30f51d56" name="Changes" comment="updated code">
-      <change afterPath="$PROJECT_DIR$/src/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loopsAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemsOnLoop3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayAssignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_problem4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +69,23 @@
       <workItem from="1692292250188" duration="5040000" />
       <workItem from="1692345151493" duration="5194000" />
       <workItem from="1692357778670" duration="4330000" />
-      <workItem from="1692410221721" duration="9209000" />
+      <workItem from="1692410221721" duration="9452000" />
+      <workItem from="1692678645046" duration="2981000" />
+      <workItem from="1692693909081" duration="360000" />
+      <workItem from="1692764738374" duration="5572000" />
+      <workItem from="1692810387761" duration="50000" />
+      <workItem from="1692847755147" duration="1940000" />
+      <workItem from="1692929377213" duration="1744000" />
+      <workItem from="1692976163298" duration="801000" />
+      <workItem from="1693029668864" duration="421000" />
+      <workItem from="1693030110442" duration="2814000" />
+      <workItem from="1693192402283" duration="3533000" />
+      <workItem from="1693243222283" duration="2226000" />
+      <workItem from="1693542115074" duration="4303000" />
+      <workItem from="1693629160976" duration="3314000" />
+      <workItem from="1693801536170" duration="796000" />
+      <workItem from="1693802354446" duration="2125000" />
+      <workItem from="1693806802583" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="my second commit">
       <option name="closed" value="true" />
@@ -129,7 +143,47 @@
       <option name="project" value="LOCAL" />
       <updated>1692297805510</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1692594996685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692594996685</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1692847780542</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692847780542</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1693029797520</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1693029797520</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1693200797287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1693200797287</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated code">
+      <option name="closed" value="true" />
+      <created>1693548417161</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693548417161</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
